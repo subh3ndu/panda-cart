@@ -1,3 +1,3 @@
-## Welcome to Panda Cart
+# Welcome to Panda Cart
 
 ![img](./panda-cart.png)
