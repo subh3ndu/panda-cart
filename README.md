@@ -1,5 +1,3 @@
-## Panda Cart
-
-One Cart for all
+## Welcome to Panda Cart
 
 ![img](./panda-cart.png)
